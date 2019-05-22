@@ -1,2 +1,2 @@
-# Semin-rio-TensorFlow
+# Seminário-TensorFlow
 Repositório referente a conteúdo utilizado no seminário da cadeira de Inteligencia Artificial.
